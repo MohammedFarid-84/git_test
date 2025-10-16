@@ -3,3 +3,4 @@ test git project!
 git is fun!!
 
 test for atomic committhis test for multiply lines in shell
+now test stop setting core.editor
